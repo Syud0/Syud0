@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/x64dbg-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/WinDbg-000000?style=flat-square&logoColor=white"/>
 </p>
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
 <!--
 **Syud0/Syud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
