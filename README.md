@@ -1,4 +1,4 @@
-### I'm a researcher specializing in Windows kernel vulnerabilities, anti-cheat, anti-debugging techniques, and game security. I primarily use C++ and Python in my work.
+I'm a researcher specializing in Windows kernel vulnerabilities, anti-cheat, anti-debugging techniques, and game security. I primarily use C++ and Python in my work.
 ## 💻 Tech Stacks
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
